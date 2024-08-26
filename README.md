@@ -26,7 +26,7 @@
 - <https://www.wireshark.org/download.html>
 - <https://code.visualstudio.com/download>
 - <https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe>
-- <>
+- <https://github.com/git-for-windows/git/releases/>
 - <>
 - <>
 - <>
