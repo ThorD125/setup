@@ -14,6 +14,7 @@
 - <https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64>
 - <https://github.com/ShareX/ShareX/releases/>
 - <https://diskanalyzer.com/files/wiztree_4_20_setup.exe>
+- <https://filezilla-project.org/download.php>
 
 ## regex
 - old right click menu:
